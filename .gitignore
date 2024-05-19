@@ -1,7 +1,6 @@
 # Data
 *.jpg
 *.parquet
-./Data/Raw/Images/*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
